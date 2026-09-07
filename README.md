@@ -27,7 +27,8 @@ Skill 名称、Skill 描述、使用场景、输入数据定义、分析流程�
 ## 在线演示
 
 - 演示视频:demo演示视频黄彦铖.mp4
-- 在线地址:通过网盘分享的文件：demo演示视频黄彦铖.mp4
+- 在线地址: https://github.com/Yellow007-Hyc/skill-generation-platform/releases/download/vo.1/demo.mp4
+- 或者通过网盘分享的文件：demo演示视频黄彦铖.mp4
 链接: https://pan.baidu.com/s/1mXC9e4MkiLem78ciMXJ_5w?pwd=6666 提取码: 6666
 
 ## 本地运行
