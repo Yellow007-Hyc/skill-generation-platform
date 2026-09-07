@@ -2,7 +2,15 @@
 
 用自然语言描述岗位需求,自动将企业岗位经验沉淀为结构化、可复用、可执行的 AI 员工 Skill,并支持直接调用 Skill 完成业务数据分析。
 
-> 面试项目 Demo:数花智算 DataAgent「企业岗位经验 Skill 生成平台设计」
+> 个人独立项目,起源于一次企业面试课题「企业岗位经验 Skill 生成平台设计」
+
+**① 一句话生成 Skill**
+
+<img src="https://github.com/user-attachments/assets/6ac9849e-c1ed-4f5c-9255-8bbbdb3000d8" width="720">
+
+**② 调用 Skill 执行,输出结构化分析报告**
+
+<img src="https://github.com/user-attachments/assets/6c44715c-9753-48e8-bf80-d55b8d3c95e9" width="720">
 
 ## 核心闭环
 
